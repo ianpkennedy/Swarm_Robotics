@@ -2,9 +2,9 @@ Hop count algorithm used to create the letter "N" using an array of robot genera
 
 Regular hop-count N:
 
-<img src="Regular" width="100"/>
+<img src="Regular.jpg" width="400"/>
 
 
 Averaged hop-count N:
 
-<img src="Smoothed" width="100"/>
+<img src="Smoothed.jpg" width="400"/>
